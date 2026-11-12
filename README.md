@@ -34,7 +34,7 @@
 4. Under "Commit message" write a description of what you changed
     * Other than the "Commit message" field, nothing else needs to be touched: The "Commit directly to the `main` branch" option should be selected by default
 5. Click the "Commit changes" button
-6. Refresh https://www.bruce.com and make sure your changes appear
+6. Refresh https://www.bruceyoungpsyd.com and make sure your changes appear
 
 #### Updating a PDF
 1. Click on the `files` folder

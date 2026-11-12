@@ -1,7 +1,7 @@
 User-agent: *
 Content-Signal: search=yes,ai-train=no
 Allow: /
-Sitemap: https://bruce.com/sitemap.xml
+Sitemap: https://bruceyoungpsyd.com/sitemap.xml
 
 User-agent: Amazonbot
 Disallow: /

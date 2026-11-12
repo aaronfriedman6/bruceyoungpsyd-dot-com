@@ -43,4 +43,4 @@ jobs:
             --exclude 'README.md' \
             --exclude 'readme-images*' \
             --exclude 'cloudflared.deb' \
-            ./ sbc:/var/www/bruce/public_html/
+            ./ sbc:/var/www/bruceyoungpsyd/public_html/
