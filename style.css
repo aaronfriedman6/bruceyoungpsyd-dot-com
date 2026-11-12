@@ -61,16 +61,42 @@ header {
   display: flex;
   align-items: flex-start;
   gap: 2rem;
+  margin: 0 1.5rem;
 
-  .home-photo {
-    width: 450px;
+  h2 {
+    color: #004f46;
+    margin: 0;
+  }
+  
+  img {
     max-width: 100%;
     flex-shrink: 0;
   }
-  
+
+  a {
+    color: inherit;
+    text-decoration: underline;
+  }
+
   .text {
     flex: 1;
     text-align: justify;
+  }
+
+  .home-photo {
+    width: 450px;
+  }
+
+  .practice-photo {
+    width: 400px;
+  }
+
+  .experience-photo {
+    width: 500px;
+  }
+
+  .treatment-photo {
+    width: 400px;
   }
 }
 
